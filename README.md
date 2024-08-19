@@ -1,2 +1,2 @@
 # MTT
-MTT results analysis using python
+MTT results for viability and toxicity can be analyzed in Python using this script
