@@ -1,0 +1,10 @@
+SAAB=input("Enter SAAB:")
+SABA=input("Enter SABA:")
+COAB=input("Enter COAB:")
+COBA=input("Enter COBA:")
+SAAB=float(SAAB)
+SABA=float(SABA)
+COAB=float(COAB)
+COBA=float(COBA)
+TOX_VIA= ((SAAB-SABA) / (COAB-COBA)) * 100
+print("TOX_VIA is", TOX_VIA)
